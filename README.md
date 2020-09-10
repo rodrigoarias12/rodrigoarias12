@@ -4,7 +4,7 @@ I'm Rodrigo Gonzalo Arias, based in Buenos Aires, Argentina.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rodrigoarias12.visitor-badge)
 
-- 🙋‍♂️ Pronouns: He/him
+- 🙋‍♂️ 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoarias12&show_icons=true)
 
