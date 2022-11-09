@@ -14,6 +14,7 @@ You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/rodrigoarias12-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigogonzaloarias/)
 
-- 🔭 I’m currently working on .Net Core , Python , React and Cloud Architecture.
+- 🔭 I’m currently working on Next , React , Solidity , .Net Core and Cloud Architecture.
+- 🌱 I’m currently learning Solidity
 - 🌱 I’m currently learning Machile learning NPL
-- 👯 I’m looking to collaborate on Distribution Systems and Cloud Architecture
+- 👯 I’m looking to collaborate on Dapp , web3 protocols and  Distribution Systems 
